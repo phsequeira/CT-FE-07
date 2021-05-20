@@ -1,0 +1,3104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dad Jokes renders a list of jokes 1`] = `
+<ul
+  aria-label="jokes"
+>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b4b"
+    >
+      <p>
+        How do you make a tissue dance?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b4e"
+    >
+      <p>
+        Why can't bicycles stand on their own?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b4f"
+    >
+      <p>
+        How does a train eat?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b69"
+    >
+      <p>
+        did you know the first French fries weren't cooked in France?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b70"
+    >
+      <p>
+        If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b75"
+    >
+      <p>
+        Why did the Clydesdale give the pony a glass of water?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b7e"
+    >
+      <p>
+        How do you make holy water?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b9a"
+    >
+      <p>
+        Can a kangaroo jump higher than the Empire State Building?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ba4"
+    >
+      <p>
+        Did you hear about the kidnapping at school?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ba6"
+    >
+      <p>
+        Did you hear about the new restaurant on the moon?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bab"
+    >
+      <p>
+        Did you hear that the police have a warrant out on a midget psychic ripping people off?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b77"
+    >
+      <p>
+        Finally realized why my plant sits around doing nothing all day...
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b9d"
+    >
+      <p>
+        Dad, can you put my shoes on?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bb5"
+    >
+      <p>
+        Do you want a brief explanation of what an acorn is?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bb8"
+    >
+      <p>
+        Have you heard of the band MB?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bb9"
+    >
+      <p>
+        Have you heard the rumor going around about butter?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b4d"
+    >
+      <p>
+        What do you call a belt made out of watches?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b51"
+    >
+      <p>
+        How many lips does a flower have?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b53"
+    >
+      <p>
+        What kind of shoes does a thief wear?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b7f"
+    >
+      <p>
+        I had a dream that I was a muffler last night.
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b89"
+    >
+      <p>
+        Did you hear about the hungry clock?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ba2"
+    >
+      <p>
+        Did you hear about the guy who invented Lifesavers?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bc7"
+    >
+      <p>
+        How do you get two whales in a car?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b8a"
+    >
+      <p>
+        Well...
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b8e"
+    >
+      <p>
+        I Got Hit In the Head By A Soda Can, But It Didn't Hurt That Much...
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bac"
+    >
+      <p>
+        Did you hear the joke about the wandering nun?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bbd"
+    >
+      <p>
+        How come the stadium got hot after the game?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bc6"
+    >
+      <p>
+        How do you get a baby alien to sleep?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b5d"
+    >
+      <p>
+        What do you call a laughing motorcycle?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b74"
+    >
+      <p>
+        A ham sandwhich walks into a bar and orders a beer. The bartender says...
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b99"
+    >
+      <p>
+        Bad at golf?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b9b"
+    >
+      <p>
+        Can February march?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b9f"
+    >
+      <p>
+        Did you hear about the chameleon who couldn't change color?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ba7"
+    >
+      <p>
+        Did you hear about the runner who was criticized?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bb0"
+    >
+      <p>
+        What do ghosts call their true love?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bb3"
+    >
+      <p>
+        Do I enjoy making courthouse puns?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bb7"
+    >
+      <p>
+        Have you ever heard of a music group called Cellophane?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bc2"
+    >
+      <p>
+        How do the trees get on the internet?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b6d"
+    >
+      <p>
+        Why did the mushroom get invited to the party?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b90"
+    >
+      <p>
+        WI Couldn't Get A Reservation At The Library...
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ba0"
+    >
+      <p>
+        Did you hear about the cheese factory that exploded in France?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bb4"
+    >
+      <p>
+        Do you know where you can get chicken broth in bulk?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bbb"
+    >
+      <p>
+        How can you tell a vampire has a cold?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b4c"
+    >
+      <p>
+        What's Forrest Gump's password?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b50"
+    >
+      <p>
+        What do you call a singing Laptop
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b73"
+    >
+      <p>
+        If you see a robbery at an Apple Store...
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b8b"
+    >
+      <p>
+        Did You Hear The Story About The Cheese That Saved The World?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b8f"
+    >
+      <p>
+        I Can't Tell If I Like This Blender...
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b9c"
+    >
+      <p>
+        Can I watch the TV?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bc1"
+    >
+      <p>
+        How do locomotives know where they're going?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b68"
+    >
+      <p>
+        What happens to a frog's car when it breaks down?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b6f"
+    >
+      <p>
+        I'm reading a book about anti-gravity...
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b76"
+    >
+      <p>
+        If you boil a clown...
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27baa"
+    >
+      <p>
+        Did you hear that David lost his ID in prague?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bbe"
+    >
+      <p>
+        How did Darth Vader know what Luke was getting for Christmas?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b54"
+    >
+      <p>
+        What's the best time to go to the dentist?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b7b"
+    >
+      <p>
+        What do you call a factory that sells passable products?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b7c"
+    >
+      <p>
+        When a dad drives past a graveyard: Did you know that's a popular cemetery?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b87"
+    >
+      <p>
+        What do you call sad coffee?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b96"
+    >
+      <p>
+        Hey, dad, did you get a haircut?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bc5"
+    >
+      <p>
+        How do you fix a damaged jack-o-lantern?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b72"
+    >
+      <p>
+        I just watched a documentary about beavers.
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b79"
+    >
+      <p>
+        I bought some shoes from a drug dealer.
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b84"
+    >
+      <p>
+        Lady: How do I spread love in this cruel world?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ba8"
+    >
+      <p>
+        Did you hear about the scientist who was lab partners with a pot of boiling water?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bb6"
+    >
+      <p>
+        Ever wondered why bees hum?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bba"
+    >
+      <p>
+        How are false teeth like stars?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bc3"
+    >
+      <p>
+        How do you find Will Smith in the snow?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b5c"
+    >
+      <p>
+        Did you hear about the two silk worms in a race?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b4a"
+    >
+      <p>
+        What did the fish say when it hit the wall?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b5e"
+    >
+      <p>
+        A termite walks into a bar and says...
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b6e"
+    >
+      <p>
+        Why did the mushroom get invited to the party?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b80"
+    >
+      <p>
+        Why is peter pan always flying?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b95"
+    >
+      <p>
+        Never take advice from electrons.
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bae"
+    >
+      <p>
+        Did you hear the one about the guy with the broken hearing aid?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bbc"
+    >
+      <p>
+        How come a man driving a train got struck by lightning?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bc8"
+    >
+      <p>
+        How do you know if there’s an elephant under your bed?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b83"
+    >
+      <p>
+        I dropped a pear in my car this morning.
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b67"
+    >
+      <p>
+        What did the duck say when he bought lipstick?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b7a"
+    >
+      <p>
+        Why do chicken coops only have two doors?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b82"
+    >
+      <p>
+        What do you call a cow with no legs?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b9e"
+    >
+      <p>
+        Did you hear about the bread factory burning down?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ba1"
+    >
+      <p>
+        Did you hear about the cow who jumped over the barbed wire fence?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ba3"
+    >
+      <p>
+        Did you hear about the guy whose whole left side was cut off?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bc9"
+    >
+      <p>
+        How do you make a hankie dance?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b52"
+    >
+      <p>
+        How do you organize an outer space party?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b8d"
+    >
+      <p>
+        I Started A New Business Making Yachts In My Attic This Year...
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b94"
+    >
+      <p>
+        What do you give to a lemon in need?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bc4"
+    >
+      <p>
+        How do you fix a broken pizza?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b71"
+    >
+      <p>
+        Want to hear a joke about a piece of paper?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b88"
+    >
+      <p>
+        Why did the butcher work extra hours at the shop?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b97"
+    >
+      <p>
+        What time is it?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b98"
+    >
+      <p>
+        A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ba9"
+    >
+      <p>
+        Did you hear about the submarine industry?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27baf"
+    >
+      <p>
+        Did you know crocodiles could grow up to  feet?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bb1"
+    >
+      <p>
+        Did you know that protons have mass?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bb2"
+    >
+      <p>
+        Did you know you should always take an extra pair of pants golfing?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b5f"
+    >
+      <p>
+        What does C.S. Lewis keep at the back of his wardrobe?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b8c"
+    >
+      <p>
+        Did You Watch The New Comic Book Movie?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ba5"
+    >
+      <p>
+        Did you hear about the Mexican train killer?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bad"
+    >
+      <p>
+        Did you hear the news?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b78"
+    >
+      <p>
+        Don't look at the eclipse through a colander.
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27b7d"
+    >
+      <p>
+        Why did the invisible man turn down the job offer?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bbf"
+    >
+      <p>
+        How did the hipster burn the roof of his mouth?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bc0"
+    >
+      <p>
+        How do hens stay fit?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bdb"
+    >
+      <p>
+        How much does a hipster weigh?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bd7"
+    >
+      <p>
+        How many optometrists does it take to change a light bulb?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bf2"
+    >
+      <p>
+        What did the big flower say to the littler flower?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bfc"
+    >
+      <p>
+        What did the mountain climber name his son?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c04"
+    >
+      <p>
+        What did the traffic light say to the car as it passed?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c0f"
+    >
+      <p>
+        What do you call a cow with no legs?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c18"
+    >
+      <p>
+        What do you call a fashionable lawn statue with an excellent sense of rhythmn?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c20"
+    >
+      <p>
+        What do you call a pig that knows karate?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c25"
+    >
+      <p>
+        What do you call an alligator in a vest?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c2c"
+    >
+      <p>
+        What do you call someone with no nose?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c33"
+    >
+      <p>
+        What do you get when you cross a rabbit with a water hose?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c43"
+    >
+      <p>
+        What is the hardest part about sky diving?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c5e"
+    >
+      <p>
+        What's the difference between a seal and a sea lion?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c68"
+    >
+      <p>
+        When is a door not a door?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c6a"
+    >
+      <p>
+        Where do bees go to the bathroom?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c6e"
+    >
+      <p>
+        Where do you learn to make banana splits?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c77"
+    >
+      <p>
+        Who is the coolest Doctor in the hospital?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bd9"
+    >
+      <p>
+        How many South Americans does it take to change a lightbulb?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bfd"
+    >
+      <p>
+        What did the ocean say to the beach?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c0b"
+    >
+      <p>
+        What do you call a bee that lives in America?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c17"
+    >
+      <p>
+        What do you call a fake noodle?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c22"
+    >
+      <p>
+        What do you call a pile of cats?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c2a"
+    >
+      <p>
+        What do you call cheese by itself?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c3c"
+    >
+      <p>
+        What has ears but cannot hear?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c5b"
+    >
+      <p>
+        What's the best thing about elevator jokes?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c5f"
+    >
+      <p>
+        What's the worst part about being a cross-eyed teacher?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c70"
+    >
+      <p>
+        Where does batman go to the bathroom?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c7e"
+    >
+      <p>
+        Why are pirates called pirates?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c98"
+    >
+      <p>
+        Why did the man run around his bed?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c99"
+    >
+      <p>
+        Why did the melons plan a big wedding?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c9f"
+    >
+      <p>
+        Why did the worker get fired from the orange juice factory?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27cac"
+    >
+      <p>
+        Why do pirates not know the alphabet?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bdc"
+    >
+      <p>
+        How was the snow globe feeling after the storm?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bcb"
+    >
+      <p>
+        How do you organize a space party?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bf0"
+    >
+      <p>
+        What did the  say to the ?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bfa"
+    >
+      <p>
+        What did the late tomato say to the early tomato?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c15"
+    >
+      <p>
+        What do you call a droid that takes the long way around?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c1e"
+    >
+      <p>
+        What do you call a monkey in a mine field?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c29"
+    >
+      <p>
+        What do you call an old snowman?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c36"
+    >
+      <p>
+        What does a clock do when it's hungry?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c45"
+    >
+      <p>
+        What is the least spoken language in the world?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c59"
+    >
+      <p>
+        What's orange and sounds like a parrot?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c60"
+    >
+      <p>
+        What's the worst thing about ancient history class?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c65"
+    >
+      <p>
+        What’s the difference between an African elephant and an Indian elephant?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c69"
+    >
+      <p>
+        Where did you learn to make ice cream?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c7b"
+    >
+      <p>
+        Why are graveyards so noisy?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c82"
+    >
+      <p>
+        Why can't your nose be  inches long?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ca5"
+    >
+      <p>
+        Why do bees have sticky hair?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ca8"
+    >
+      <p>
+        Why do choirs keep buckets handy?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27caa"
+    >
+      <p>
+        Why do ducks make great detectives?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27cb4"
+    >
+      <p>
+        Why does a Moon-rock taste better than an Earth-rock?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bce"
+    >
+      <p>
+        How does a dyslexic poet write?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27beb"
+    >
+      <p>
+        What did one nut say as he chased another nut?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c19"
+    >
+      <p>
+        What do you call a fat psychic?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c1a"
+    >
+      <p>
+        What do you call a fly without wings?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c26"
+    >
+      <p>
+        What do you call an Argentinian with a rubber toe?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c34"
+    >
+      <p>
+        What do you get when you cross a snowman with a vampire?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c4b"
+    >
+      <p>
+        What kind of dog lives in a particle accelerator?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c52"
+    >
+      <p>
+        What time did the man go to the dentist?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c56"
+    >
+      <p>
+        What's black and white and read all over?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c73"
+    >
+      <p>
+        Where was the Declaration of Independence signed?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c86"
+    >
+      <p>
+        Why did Dracula lie in the wrong coffin?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c8a"
+    >
+      <p>
+        Why did the belt go to prison?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c8b"
+    >
+      <p>
+        Why did the burglar hang his mugshot on the wall?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c9a"
+    >
+      <p>
+        Why did the octopus beat the shark in a fight?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c9e"
+    >
+      <p>
+        Why did the tree go to the dentist?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27cb5"
+    >
+      <p>
+        Why does it take longer to get from st to nd base, than it does to get from nd to rd base?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27cb7"
+    >
+      <p>
+        Why does Superman get invited to dinners?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27be4"
+    >
+      <p>
+        What animal is always at a game of cricket?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27be5"
+    >
+      <p>
+        What are the strongest days of the week?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bee"
+    >
+      <p>
+        What did one wall say to the other wall?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bff"
+    >
+      <p>
+        Why don't you find hippopotamuses hiding in trees?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c03"
+    >
+      <p>
+        What did the shy pebble wish for?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c0a"
+    >
+      <p>
+        What do you call a bear with no teeth?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c13"
+    >
+      <p>
+        What do you call a dictionary on drugs?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c1c"
+    >
+      <p>
+        What do you call a group of disorganized cats?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c4c"
+    >
+      <p>
+        What kind of magic do cows believe in?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c58"
+    >
+      <p>
+        What's brown and sticky?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c5a"
+    >
+      <p>
+        What's red and bad for your teeth?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c64"
+    >
+      <p>
+        What’s the advantage of living in Switzerland?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c67"
+    >
+      <p>
+        When does a joke become a dad joke?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c6b"
+    >
+      <p>
+        Where do hamburgers go to dance?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c92"
+    >
+      <p>
+        Why did the fireman wear red, white, and blue suspenders?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c93"
+    >
+      <p>
+        Why did the girl smear peanut butter on the road?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ca3"
+    >
+      <p>
+        Why do bananas have to put on sunscreen before they go to the beach?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ca4"
+    >
+      <p>
+        Why do bears have hairy coats?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bd8"
+    >
+      <p>
+        How many seconds are in a year?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27be7"
+    >
+      <p>
+        What cheese can never be yours?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27be9"
+    >
+      <p>
+        What did celery say when he broke up with his girlfriend?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c05"
+    >
+      <p>
+        What did the Zen Buddist say to the hotdog vendor?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c06"
+    >
+      <p>
+        What do birds give out on Halloween?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c12"
+    >
+      <p>
+        What do you call a dad that has fallen through the ice?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c37"
+    >
+      <p>
+        What does a female snake use for support?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c3f"
+    >
+      <p>
+        What is a vampire's favorite fruit?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c47"
+    >
+      <p>
+        What is this movie about?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c49"
+    >
+      <p>
+        What kind of bagel can fly?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c4a"
+    >
+      <p>
+        What kind of dinosaur loves to sleep?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c78"
+    >
+      <p>
+        Why are fish easy to weigh?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c9c"
+    >
+      <p>
+        Why did the scarecrow win an award?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c9d"
+    >
+      <p>
+        Why did the tomato blush?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ca6"
+    >
+      <p>
+        Why do bees hum?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27cb1"
+    >
+      <p>
+        Why do wizards clean their teeth three times a day?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bd0"
+    >
+      <p>
+        How does a penguin build it’s house?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bd4"
+    >
+      <p>
+        How many bones are in the human hand?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bea"
+    >
+      <p>
+        What did Michael Jackson name his denim store?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c46"
+    >
+      <p>
+        What is the tallest building in the world?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c62"
+    >
+      <p>
+        What’s E.T. short for?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c71"
+    >
+      <p>
+        Where does Fonzie like to go for lunch?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c76"
+    >
+      <p>
+        Who did the wizard marry?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c97"
+    >
+      <p>
+        Why did the man put his money in the freezer?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ca7"
+    >
+      <p>
+        Why do birds fly south for the winter?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bd5"
+    >
+      <p>
+        How many hipsters does it take to change a lightbulb?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bf1"
+    >
+      <p>
+        What did the beaver say to the tree?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bec"
+    >
+      <p>
+        What did one plate say to the other plate?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bf6"
+    >
+      <p>
+        What did the Dorito farmer say to the other Dorito farmer?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bf7"
+    >
+      <p>
+        What did the fish say when it swam into a wall?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bfe"
+    >
+      <p>
+        What did the ocean say to the shore?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c11"
+    >
+      <p>
+        What do you call a crowd of chess players bragging about their wins in a hotel lobby?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c24"
+    >
+      <p>
+        What do you call a troublesome Canadian high schooler?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c30"
+    >
+      <p>
+        What do you get hanging from Apple trees?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c38"
+    >
+      <p>
+        What does a pirate pay for his corn?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c4d"
+    >
+      <p>
+        What kind of music do planets listen to?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c5c"
+    >
+      <p>
+        What's the difference between a guitar and a fish?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c63"
+    >
+      <p>
+        What’s Forest Gump’s Facebook password?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c75"
+    >
+      <p>
+        Which side of the chicken has more feathers?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c7d"
+    >
+      <p>
+        Why are oranges the smartest fruit?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c83"
+    >
+      <p>
+        Why can’t you hear a pterodactyl go to the bathroom?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c85"
+    >
+      <p>
+        Why couldn't the lifeguard save the hippie?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c88"
+    >
+      <p>
+        Why did the A go to the bathroom and come out as an E?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c8f"
+    >
+      <p>
+        Why did the cookie cry?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27cb3"
+    >
+      <p>
+        Why does a chicken coop only have two doors?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bfb"
+    >
+      <p>
+        What did the left eye say to the right eye?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c01"
+    >
+      <p>
+        What did the Red light say to the Green light?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c3a"
+    >
+      <p>
+        What happens to a frog's car when it breaks down?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c3e"
+    >
+      <p>
+        What is a tornado's favorite game to play?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c41"
+    >
+      <p>
+        What is red and smells like blue paint?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c4e"
+    >
+      <p>
+        What kind of pants do ghosts wear?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c53"
+    >
+      <p>
+        What type of music do balloons hate?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c54"
+    >
+      <p>
+        What was a more important invention than the first telephone?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c81"
+    >
+      <p>
+        Why can't you use "Beef stew"as a password?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c8e"
+    >
+      <p>
+        Why did the coffee file a police report?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c95"
+    >
+      <p>
+        Why did the house go to the doctor?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27cab"
+    >
+      <p>
+        Why do mathematicians hate the U.S.?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27cae"
+    >
+      <p>
+        Why do scuba divers fall backwards into the water?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bcc"
+    >
+      <p>
+        How do you steal a coat?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bcd"
+    >
+      <p>
+        How do you tell the difference between a crocodile and an alligator?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bde"
+    >
+      <p>
+        Is there a hole in your shoe?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c10"
+    >
+      <p>
+        What do you call a cow with two legs?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c16"
+    >
+      <p>
+        What do you call a duck that gets all A's?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c1b"
+    >
+      <p>
+        What do you call a girl between two posts?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c23"
+    >
+      <p>
+        What do you call a sheep with no legs?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c2f"
+    >
+      <p>
+        What do you do when you see a space man?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c35"
+    >
+      <p>
+        What do you give a sick lemon?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c6f"
+    >
+      <p>
+        Where do young cows eat lunch?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c72"
+    >
+      <p>
+        Where does Napoleon keep his armies?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c8c"
+    >
+      <p>
+        Why did the chicken get a penalty?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c94"
+    >
+      <p>
+        Why did the half blind man fall in the well?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bca"
+    >
+      <p>
+        How do you make holy water?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27be3"
+    >
+      <p>
+        Want to hear my pizza joke?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c0c"
+    >
+      <p>
+        What do you call a boomerang that won't come back?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c0d"
+    >
+      <p>
+        What do you call a careful wolf?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c28"
+    >
+      <p>
+        What do you call an elephant that doesn’t matter?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c2b"
+    >
+      <p>
+        What do you call corn that joins the army?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c2d"
+    >
+      <p>
+        What do you call two barracuda fish?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c2e"
+    >
+      <p>
+        What do you do on a remote island?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c39"
+    >
+      <p>
+        What does an angry pepper do?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c3b"
+    >
+      <p>
+        What happens when you anger a brain surgeon?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c40"
+    >
+      <p>
+        What is a witch's favorite subject in school?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c61"
+    >
+      <p>
+        What’s brown and sounds like a bell?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c80"
+    >
+      <p>
+        Why can't a bicycle stand on its own?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c84"
+    >
+      <p>
+        Why couldn't the kid see the pirate movie?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27cb0"
+    >
+      <p>
+        Why do valley girls hang out in odd numbered groups?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27be0"
+    >
+      <p>
+        What’s  Cent’s name in Zimbabwe?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27be6"
+    >
+      <p>
+        What biscuit does a short person like?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c00"
+    >
+      <p>
+        What did the pirate say on his th birthday?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c02"
+    >
+      <p>
+        What did the scarf say to the hat?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c08"
+    >
+      <p>
+        What do prisoners use to call each other?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c14"
+    >
+      <p>
+        what do you call a dog that can do magic tricks?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c1d"
+    >
+      <p>
+        What do you call a group of killer whales playing instruments?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c6c"
+    >
+      <p>
+        Where do rabbits go after they get married?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c79"
+    >
+      <p>
+        Why are fish so smart?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c7f"
+    >
+      <p>
+        Why are skeletons so calm?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c8d"
+    >
+      <p>
+        Why did the Clydesdale give the pony a glass of water?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27caf"
+    >
+      <p>
+        Why do trees seem suspicious on sunny days?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27be8"
+    >
+      <p>
+        What creature is smarter than a talking parrot?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bd1"
+    >
+      <p>
+        How does a scientist freshen their breath?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bf3"
+    >
+      <p>
+        What did the Buffalo say to his little boy when he dropped him off at school?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bf4"
+    >
+      <p>
+        What did the digital clock say to the grandfather clock?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c09"
+    >
+      <p>
+        What do vegetarian zombies eat?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c44"
+    >
+      <p>
+        What is the leading cause of dry skin?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c48"
+    >
+      <p>
+        What kind of award did the dentist receive?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c57"
+    >
+      <p>
+        What's blue and not very heavy?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c7c"
+    >
+      <p>
+        Why are mummys scared of vacation?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c87"
+    >
+      <p>
+        Why did Sweden start painting barcodes on the sides of their battleships?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bd2"
+    >
+      <p>
+        How does the moon cut his hair?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bd3"
+    >
+      <p>
+        How many apples grow on a tree?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bda"
+    >
+      <p>
+        How many tickles does it take to tickle an octopus?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bdf"
+    >
+      <p>
+        What did the spaghetti say to the other spaghetti?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c07"
+    >
+      <p>
+        What do I look like?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c0e"
+    >
+      <p>
+        What do you call a cow on a trampoline?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c1f"
+    >
+      <p>
+        What do you call a nervous javelin thrower?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c21"
+    >
+      <p>
+        What do you call a pig with three eyes?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c27"
+    >
+      <p>
+        What do you call an eagle who can play the piano?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c51"
+    >
+      <p>
+        What musical instrument is found in the bathroom?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c66"
+    >
+      <p>
+        When do doctors get angry?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c6d"
+    >
+      <p>
+        Where do sheep go to get their hair cut?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c90"
+    >
+      <p>
+        Why did the cookie cry?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ca2"
+    >
+      <p>
+        Why didn’t the skeleton cross the road?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27cb2"
+    >
+      <p>
+        Why do you never see elephants hiding in trees?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bcf"
+    >
+      <p>
+        How does a French skeleton say hello?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bdd"
+    >
+      <p>
+        Is the pool safe for diving?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bd6"
+    >
+      <p>
+        How many kids with ADD does it take to change a lightbulb?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27be1"
+    >
+      <p>
+        Want to hear a chimney joke?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27be2"
+    >
+      <p>
+        Want to hear a joke about construction?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bed"
+    >
+      <p>
+        What did one snowman say to the other snow man?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bf5"
+    >
+      <p>
+        What did the dog say to the two trees?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bf9"
+    >
+      <p>
+        What did the judge say to the dentist?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c32"
+    >
+      <p>
+        What do you get when you cross a chicken with a skunk?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c3d"
+    >
+      <p>
+        What is a centipedes's favorite Beatle song?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c42"
+    >
+      <p>
+        What is the difference between ignorance and apathy?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c4f"
+    >
+      <p>
+        What kind of tree fits in your hand?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c50"
+    >
+      <p>
+        What lies at the bottom of the ocean and twitches?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c5d"
+    >
+      <p>
+        What's the difference between a hippo and a zippo?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c74"
+    >
+      <p>
+        Where’s the bin?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c89"
+    >
+      <p>
+        Why did the barber win the race?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c9b"
+    >
+      <p>
+        Why did the opera singer go sailing?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ca1"
+    >
+      <p>
+        Why didn’t the orange win the race?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27cb8"
+    >
+      <p>
+        Why does Waldo only wear stripes?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bef"
+    >
+      <p>
+        What did Romans use to cut pizza before the rolling cutter was invented?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27bf8"
+    >
+      <p>
+        What did the grape do when he got stepped on?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c31"
+    >
+      <p>
+        What do you get when you cross a bee and a sheep?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c55"
+    >
+      <p>
+        What was the pumpkin’s favorite sport?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c7a"
+    >
+      <p>
+        Why are ghosts bad liars?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c91"
+    >
+      <p>
+        Why did the cowboy have a weiner dog?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27c96"
+    >
+      <p>
+        Why did the kid cross the playground?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ca0"
+    >
+      <p>
+        Why didn't the number  get into the nightclub?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27ca9"
+    >
+      <p>
+        Why do crabs never give to charity?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27cad"
+    >
+      <p>
+        Why do pumpkins sit on people’s porches?
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5f80ccd641785ba7c7d27cb6"
+    >
+      <p>
+        Why does Norway have barcodes on their battleships?
+      </p>
+    </a>
+  </li>
+</ul>
+`;
